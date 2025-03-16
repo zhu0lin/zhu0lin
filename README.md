@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 Hi there! My name is Zhuolin Li, a motivated Computer Engineering major at the City College of New York. My primary focus is on backend development, and I'm passionate about the link between hardware and software.
 <br><br>
 Currently I'm learning many technologies, including:
