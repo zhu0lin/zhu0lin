@@ -24,6 +24,7 @@ Currently I'm learning many technologies, including:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
+
   <!-- Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -64,4 +65,3 @@ Currently I'm learning many technologies, including:
   </a> 
 </p>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhu0lin&layout=compact&langs_count=8&theme=tokyonight"/>
