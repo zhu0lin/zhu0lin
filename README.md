@@ -1,12 +1,11 @@
 ![Header](./github-header.png)
-Hi there! My name is Zhuolin Li, a motivated Computer Engineering major at the City College of New York. My primary focus is on backend development, and I'm passionate about the link between hardware and software.
+Hi there! My name is Zhuolin Li, a motivated Computer Science major at the City College of New York. My primary focus is on backend development, and I'm passionate about building projects for social good and education.
 <br><br>
-Currently I'm learning many technologies, including:
+I'm currently learning:
 
 - Data structures & Algorithms
 - ReactJS
-- PostgreSQL
-- Python
+- Node.js
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +16,7 @@ Currently I'm learning many technologies, including:
 
 <h3 align="left">Check out my portfolio website:</h3>
 <p align="left">
-  <a href="https://zhuolin.me" target="blank">Portfolio
+  <a href="https://zhu0lin.github.io" target="blank">Portfolio
   </a>
 </p>
 
