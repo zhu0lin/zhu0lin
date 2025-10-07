@@ -6,19 +6,8 @@ I'm currently learning and strengthening my skills in:
 - FastAPI 
 - Docker and other containerization tools
 - Data structures & Algorithms
+- Force push and pray 🙏
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/zhuolin-li-695a46262/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhuolinli" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Check out my portfolio website:</h3>
-<p align="left">
-  <a href="https://zhu0lin.github.io" target="blank">Portfolio
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
