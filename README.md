@@ -6,7 +6,7 @@ I'm a Computer Science major at the City College of New York with a strong inter
 
 ## Currently Learning
 
-- FastAPI
+- C++
 - Docker and containerization
 - Data Structures & Algorithms
 - Force push and pray 🙏
