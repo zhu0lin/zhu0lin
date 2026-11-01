@@ -8,18 +8,14 @@ CodePath Technical Fellow · ACM City College Treasurer
 
 ## GitHub Activity
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zhu0lin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zhuolin's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhu0lin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=zhu0lin&show_icons=true&theme=tokyonight&hide_border=true" alt="Zhuolin's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zhu0lin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=zhu0lin&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhu0lin&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub trophies" />
-</div>
+</p>
 
 ## Skills
 
@@ -44,6 +40,12 @@ CodePath Technical Fellow · ACM City College Treasurer
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**ML & AI**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Tools & concepts**
 
